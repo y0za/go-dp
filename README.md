@@ -1,18 +1,16 @@
-go-dp
-=====
-
+# go-dp
 Dynamic Pineapple Command
 
-Installation
-------------
+## Installation
 ```
 $ go get github.com/y0za/go-dp
 ```
 
-License
--------
+## Usage
+![](https://raw.githubusercontent.com/y0za/assets/master/go-dp/go-dp.gif)
+
+## License
 MIT License
 
-Author
-------
+## Author
 yoza (y0za)
